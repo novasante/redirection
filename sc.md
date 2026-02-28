@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://novasante.ch/serverine.corthay?source=qr"
+redirect_to: "https://novasante.ch/serverine_corthay?source=qr"
 ---
