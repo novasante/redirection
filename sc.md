@@ -1,4 +1,4 @@
 ---
 permalink: /SC/
-redirect_to: "https://novasante.ch/?source=qr#serverine-corthay"
+redirect_to: "https://novasante.ch/?practitioner=serverine-corthay&source=qr"
 ---
