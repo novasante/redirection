@@ -1,4 +1,4 @@
 ---
 permalink: /SD/
-redirect_to: "https://novasante.ch/?source=qr#sarah-dionne"
+redirect_to: "https://novasante.ch/sarah-dionne?source=qr"
 ---
